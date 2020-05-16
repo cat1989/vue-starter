@@ -1,0 +1,25 @@
+* {
+    padding: 0;
+    margin: 0;
+    outline: none;
+    -webkit-touch-callout: none;
+    -webkit-tap-highlight-color: transparent;
+    font-size-adjust: none;
+    text-size-adjust: none;
+}
+html, body {
+    width: 100%;
+}
+body, input, select, button, textarea {
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
+textarea {
+    overflow: auto;
+    resize: none;
+}
+a img {
+    border: 0;
+}
+a {
+    text-decoration: none;
+}
